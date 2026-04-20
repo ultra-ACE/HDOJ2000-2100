@@ -13,3 +13,6 @@ int main()
     }
     return 0;
 }
+
+void abd(){}
+void ac(){}
